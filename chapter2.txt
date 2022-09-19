@@ -1,0 +1,1 @@
+hi this is the second text file .  Today is myfirst day in my journey of learning git hub
